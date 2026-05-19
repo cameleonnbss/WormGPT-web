@@ -19,8 +19,8 @@ This tool runs a fully uncensored AI model locally on your machine. Use responsi
 ```cmd
 git clone https://github.com/cameleonnbss/WormGPT-web.git
 cd WormGPT-web
-install.bat
-start.bat
+.\install.bat
+.\start.bat
 ```
 
 Open **http://localhost:5000** in your browser and start chatting.
